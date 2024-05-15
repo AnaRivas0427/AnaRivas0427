@@ -1,3 +1,5 @@
+![](img1.png)
+
 ### ¡Hola! 👋 Soy Ana Paulina Rivas
 
 Estudiante de último semestre de Ingeniería en Sistemas Computacionales con especialidad en bases de datos. Me apasiona el desarrollo web, especialmente el enfoque en Front-End, donde disfruto creando experiencias interactivas y visualmente atractivas para los usuarios.
