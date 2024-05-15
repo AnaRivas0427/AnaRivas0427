@@ -11,3 +11,5 @@ Estudiante de último semestre de Ingeniería en Sistemas Computacionales con es
 📚 Actualmente cursando un curso en TecnoloChicas sobre Front-End para fortalecer mis habilidades en esta área.
 
 🏆 Certificaciones en estructura básica de Python y Git obtenidas en CodeFacilito.
+
+🔧 Habilidades técnicas: SQL, C#, CSS, HTML, JavaScript y Python.
