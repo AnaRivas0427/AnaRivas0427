@@ -13,3 +13,7 @@ Estudiante de último semestre de Ingeniería en Sistemas Computacionales con es
 🏆 Certificaciones en estructura básica de Python y Git obtenidas en CodigoFacilito.
 
 🔧 Habilidades técnicas: SQL, C#, CSS, HTML, JavaScript y Python.
+
+
+<img src="{https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white}" />
+
